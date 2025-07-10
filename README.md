@@ -27,3 +27,5 @@ I also learned how to organize and push a working HTML/CSS/JS project into GitHu
  Final Thoughts
 This was a super fun project and I loved combining my creativity with code. I’d love to expand it one day with more advanced features like user customization, more user inputs or animations!
 
+Here is more about the Athena awards: [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
