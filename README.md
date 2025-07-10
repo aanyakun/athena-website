@@ -3,4 +3,4 @@ This is a fun and interactive personal webpage built with HTML, CSS, and a littl
 
 It gives you a list of fun activities when bored + also a random activity suggestion button that you can click on for ideas!
 
-🔗 **Live preview:** https://github.com/aanyakun/athena-website
+🔗 **Live preview:** https://aanyakun.github.io/athena-website/
